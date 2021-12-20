@@ -96,21 +96,21 @@ This repo includes:</br>
     
   <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/tree/main/Strings'>Strings</li>
     <ul>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Check%20Palindrome'>Check Palindrome</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Check%20Permutation'>Check Permutation</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Remove%20Consecutive%20Duplicates'>Remove Consecutive Duplicates</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Reverse%20Each%20Word'>Reverse Each Word</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Remove%20character'>Remove character</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Highest%20Occuring%20Character'>Highest Occuring Character</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Compress%20the%20String'>Compress the String</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Check%20Palindrome.py'>Check Palindrome</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Check%20Permutation.py'>Check Permutation</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Remove%20Consecutive%20Duplicates.py'>Remove Consecutive Duplicates</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Reverse%20Each%20Word.py'>Reverse Each Word</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Remove%20character.py'>Remove character</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Highest%20Occuring%20Character.py'>Highest Occuring Character</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Strings/Compress%20the%20String.py'>Compress the String</li>
     </ul>
     
   <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/tree/main/Two%20Dimensional%20Lists'>Two Dimensional Lists</li>
     <ul>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Two%20Dimensional%20Lists/Row%20Wise%20Sum'>Row Wise Sum</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Two%20Dimensional%20Lists/Largest%20Row%20or%20Column'>Largest Row or Column</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Two%20Dimensional%20Lists/Wave%20Print'>Wave Print</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Two%20Dimensional%20Lists/Spiral%20Print'>Spiral Print</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Two%20Dimensional%20Lists/Row%20Wise%20Sum.py'>Row Wise Sum</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Two%20Dimensional%20Lists/Largest%20Row%20or%20Column.py'>Largest Row or Column</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Two%20Dimensional%20Lists/Wave%20Print.py'>Wave Print</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Two%20Dimensional%20Lists/Spiral%20Print.py'>Spiral Print</li>
     </ul> 
 </ol>
 

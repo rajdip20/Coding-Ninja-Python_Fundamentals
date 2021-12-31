@@ -63,7 +63,7 @@ This repo includes:</br>
   <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/tree/main/Functions'>Functions</li>
     <ul>
       <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Functions/Fahrenheit%20to%20Celsius%20Function.py'>Fahrenheit to Celsius</li>
-      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Functions/Fibonacci%20Member.py'>Fibonacci Menber</li>
+      <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Functions/Fibonacci%20Member.py'>Fibonacci Member</li>
       <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Functions/Palindrome%20number%20Function.py'>Palindrome number</li>
       <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/blob/main/Functions/Check%20Armstrong.py'>Check Armstrong</li>
     </ul>

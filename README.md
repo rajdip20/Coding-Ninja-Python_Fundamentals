@@ -1,5 +1,5 @@
 # Coding-Ninja-Python_Fundamentals
-This repo includes all python problems for Coding Ninja Python Fundamental course. Please give a star in this repo if you like it. More programs are uploaded soon.</br></br>
+This repo includes all python problems for Coding Ninja Python Fundamental course. Please give a star in this repo if you like it.</br></br>
 This repo includes:</br>
 <ol>
   <li><a href='https://github.com/rajdip20/Coding-Ninja-Python_Fundamentals/tree/main/Introduction%20to%20Python'>Introduction to Python</li>
